@@ -15,7 +15,9 @@ All links use the Rec Room CDN format:
 ```
 https://cdn.rec.net/room/<DataBlob>
 ```
-
+```
+https://img.rec.net/<Image>
+```
 ---
 
 # 📂 All SubRooms (Complete)
