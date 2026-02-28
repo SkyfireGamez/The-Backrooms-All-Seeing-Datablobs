@@ -6,6 +6,7 @@ A list of datablob ID's from the April 2022 era of ^TheBackroomsAllSeeing in Rec
 </p>
 
 # 📦 TheBackroomsAllSeeing — Complete DataBlob Archive (April 2022)
+### NOTE: The only empty datablob so far is Main-Menu. Also i've made an archive and have uploaded it to this GitHub Page, enjoy!
 
 A complete collection of **every subroom DataBlob** from the April 2022 era of  
 **TheBackroomsAllSeeing**.
